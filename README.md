@@ -438,9 +438,10 @@ _____
 
 ===============
 _____
-# <strong>Помощь в установке, консультации, доработки шаблонов для сборки биржи услуг на Cotonti заказать можно по контактам:</strong>
+# <strong>Помощь в установке, консультации, доработки шаблонов для сборки биржи услуг на Cotonti Siena заказать можно по контактам:</strong>
 - Email: webitproff@gmail.com
-- <a href="https://t.me/webitproff" target="_blank" class="" uk-tooltip="открыть нашу страницу в новой вкладке" title="написать в TELEGRAM"><strong>написать в TELEGRAM</strong></a> @webitproff 
+- <a href="https://t.me/webitproff" target="_blank"  title="написать в TELEGRAM"><strong>написать в TELEGRAM</strong></a> @webitproff
+- <a href="https://abuyfile.com/market/Cotonti/gotovye-sborki-na-cotonti" target="_blank" title="маркетплейс, фриланс-биржа, биржа услуг, готовое решение, демонстрация, купить"><strong>Готовые решения сайтов</strong></a>
 _____
 ===============
 21.03.2021
